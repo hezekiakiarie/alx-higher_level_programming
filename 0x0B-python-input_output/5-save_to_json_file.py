@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 """save_to_json_file module.
 Contains a function that writes an Object to a text file.
 """
